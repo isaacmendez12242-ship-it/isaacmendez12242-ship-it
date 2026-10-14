@@ -1,7 +1,7 @@
-<h1 align="center">Hola, soy Isa 👋</h1>
+<h1 align="center">Hola, soy Isaac Méndez Alfaro👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Desarrolladora+web+%F0%9F%92%BB;Futura+en+ciberseguridad+%F0%9F%94%90;Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Desarrollador+web+%F0%9F%92%BB;Futura+en+ciberseguridad+%F0%9F%94%90;Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://giphy.com/gifs/VeeFriends-robot-veefriends-rare-llwf790LJlOThd1Q3g" alt="Robot tecleando" />
