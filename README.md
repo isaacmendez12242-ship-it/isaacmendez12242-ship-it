@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Desarrollador+web+%F0%9F%92%BB;+%F0%9F%94%90;Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="<a href="https://iconscout.com/lottie-animations/robot-escribiendo" class="text-underline font-size-sm" target="_blank">robot escribiendo</a> by <a href="https://iconscout.com/es/contributors/vectors-market/:assets" class="text-underline font-size-sm" target="_blank">Vectors Market</a>" />
+  <img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/62af0aa1-b3e9-4fad-99c3-4344b7c7d38e" />
+
 </p>
 ## 🛠️ Tecnologías
 
