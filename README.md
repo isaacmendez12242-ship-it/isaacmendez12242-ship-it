@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Desarrollador+web+%F0%9F%92%BB;+%F0%9F%94%90;Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://giphy.com/gifs/VeeFriends-robot-veefriends-rare-llwf790LJlOThd1Q3g" alt="Robot tecleando" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpiNjh6YzUxbnN4enFkbGx2MW5hN21xaG1wN3dnZjdiaTh5b3UydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q24AgGI3B5Bhx6Lqah/giphy.gif" alt="Robot tecleando" />
 </p>
 
 <p align="center">
