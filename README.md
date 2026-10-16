@@ -1,12 +1,13 @@
-<h1 align="center">Hola, soy Isaac Méndez Alfaro👋</h1>
+<h1 align="center">Hola, soy Isaac Méndez Alfaro 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Desarrollador+web+%F0%9F%92%BB;+%F0%9F%94%90;Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img width="540" height="540" alt="image" src="https://i.pinimg.com/originals/25/ef/00/25ef00ef85e23a054f40bbee7b4931bc.gif" />
 
+<p align="center">
+  <img width="400" alt="Robot escribiendo" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF5b2V2amFydmgzazByYWhkZnhoMW1qcHB4ZmZtZm1sYTc4NGlkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZTy6FxzPnIU0M/giphy.gif" />
 </p>
+
 ## 🛠️ Tecnologías
 
 **Frontend**
