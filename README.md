@@ -6,11 +6,6 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/dPLWf7LikXoAAAAC/typing-gif.gif" alt="Robot tecleando" />
 </p>
-
-<p align="center">
-  <img src="robot.svg" width="400" alt="Robot tecleando" />
-</p>
-
 ## 🛠️ Tecnologías
 
 **Frontend**
